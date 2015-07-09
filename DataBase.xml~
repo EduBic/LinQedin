@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <utente>
+        <username>asd</username>
+        <tipo>2</tipo>
+        <profilo>
+            <info1>
+                <nome>Profilo</nome>
+                <cognome>Test</cognome>
+                <sesso>M</sesso>
+                <data>1/1/1940</data>
+                <paese></paese>
+                <residenza>
+                    <comune></comune>
+                    <regione></regione>
+                    <indirizzo></indirizzo>
+                </residenza>
+                <professione>Debugger</professione>
+                <lingue>C++</lingue>
+            </info1>
+            <info2>
+                <numero></numero>
+                <mail></mail>
+            </info2>
+            <info3/>
+        </profilo>
+        <rete>
+            <contatto>beckel</contatto>
+            <contatto>bstrou</contatto>
+            <contatto>lwall</contatto>
+        </rete>
+    </utente>
+    <utente>
+        <username>beckel</username>
+        <tipo>1</tipo>
+        <profilo>
+            <info1>
+                <nome>Bruce</nome>
+                <cognome>Eckel</cognome>
+                <sesso>M</sesso>
+                <data>8/7/1957</data>
+                <paese>Stati Uniti</paese>
+                <residenza>
+                    <comune></comune>
+                    <regione></regione>
+                    <indirizzo></indirizzo>
+                </residenza>
+                <professione>Computer Programmer, autore, colonnista</professione>
+                <lingue>Inglese</lingue>
+            </info1>
+            <info2>
+                <numero></numero>
+                <mail></mail>
+		<titolo>BS Applied Physics, University of California at Irvine</titolo>
+		<titolo> MS Computer Engineering, Cal Poly San Luis Obispo</titolo>
+            </info2>
+            <info3>
+                <esperienza> Membro fondatote ANSI/ISO C++ standard</esperienza>
+                <esperienza>Scrittore articoli su linguaggi di programmazione</esperienza>
+                <esperienza>Java Alley columnist per Web Techniques magazine</esperienza>
+                <esperienza>Autore di Thinking in C++</esperienza>
+                <esperienza>Presidente di MindView</esperienza>
+                <esperienza>Esperto di programming languages e software system desig</esperienza>
+                <esperienza>Cofondatore di  JavaPosse Roundup Conference</esperienza>
+                <esperienza>Creatore di Scala Summit Conference</esperienza>
+            </info3>
+        </profilo>
+        <rete>
+            <contatto>bstrou</contatto>
+        </rete>
+    </utente>
+    <utente>
+        <username>bstrou</username>
+        <tipo>2</tipo>
+        <profilo>
+            <info1>
+                <nome>Bjarne</nome>
+                <cognome> Stroustrup</cognome>
+                <sesso>M</sesso>
+                <data>30/12/1950</data>
+                <paese>Stati Uniti</paese>
+                <residenza>
+                    <comune></comune>
+                    <regione>New York</regione>
+                    <indirizzo></indirizzo>
+                </residenza>
+                <professione>Professore, ricercatore</professione>
+                <lingue>Inglese, danese</lingue>
+            </info1>
+            <info2>
+                <numero></numero>
+                <mail></mail>
+		<titolo> PhD in computer science - Cambridge University</titolo>
+		<titolo>Master's in mathematics - Aarhus University </titolo>
+            </info2>
+            <info3>
+                <esperienza>Designer and original implementer of C++</esperienza>
+                <esperienza>Managing Director in the technology division of Morgan Stanley </esperienza>
+                <esperienza>Promotion to Distinguished Professor (the university's highest academic rank).</esperienza>
+            </info3>
+        </profilo>
+        <rete>
+            <contatto>beckel</contatto>
+        </rete>
+    </utente>
+    <utente>
+        <username>lwall</username>
+        <tipo>0</tipo>
+        <profilo>
+            <info1>
+                <nome>Larry</nome>
+                <cognome>Wall</cognome>
+                <sesso>M</sesso>
+                <data>27/9/1954</data>
+                <paese>Stati Uniti</paese>
+                <residenza>
+                    <comune></comune>
+                    <regione></regione>
+                    <indirizzo></indirizzo>
+                </residenza>
+                <professione>Computer Programmer, linguista, autore</professione>
+                <lingue>Inglese</lingue>
+            </info1>
+            <info2>
+                <numero></numero>
+                <mail>larry@wall.org</mail>
+            </info2>
+            <info3>
+                <esperienza>Co-autore di Programming Perl</esperienza>
+                <esperienza>Autore del libro Perl-CookBook</esperienza>
+                <esperienza>Autore di Patch program</esperienza>
+                <esperienza>Autore di Usenet client</esperienza>
+                <esperienza>Vincitore dell'International Obfuscated C Code Contest</esperienza>
+            </info3>
+        </profilo>
+        <rete>
+            <contatto>beckel</contatto>
+            <contatto>bstrou</contatto>
+        </rete>
+    </utente>
+</database>
